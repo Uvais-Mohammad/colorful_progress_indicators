@@ -1,7 +1,7 @@
 name: colorful_progress_indicators
 description: A package that provides user defined colorful progress indicators.
 version: 1.0.0
-homepage: </em>https://github.com/Uvais-Mohammad/colorful_progress_indicators</em>.
+homepage: https://github.com/Uvais-Mohammad/colorful_progress_indicators
 
 environment:
   sdk: ">=2.18.4 <3.0.0"
