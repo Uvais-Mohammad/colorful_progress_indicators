@@ -11,7 +11,6 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages).![loader](https://user-images.githubusercontent.com/63300484/202897126-9cb81a7e-97a4-47ae-a6db-b2289dd30576.gif)
 
 -->
-# colorful_progress_indicators
 
 A package that provides user defined colorful progress indicators.
 
