@@ -16,7 +16,7 @@ A package that provides user defined colorful progress indicators.
 
 ## Features
 
-- Can provide list of colors to be used in the progress indicator.
+Can provide list of colors to be used in the progress indicator.
 
 <img height="400" src="https://user-images.githubusercontent.com/63300484/202897126-9cb81a7e-97a4-47ae-a6db-b2289dd30576.gif">
 
