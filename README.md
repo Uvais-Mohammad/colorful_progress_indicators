@@ -8,14 +8,18 @@ For information about how to write a good package README, see the guide for
 For general information about developing packages, see the Dart guide for
 [creating packages](https://dart.dev/guides/libraries/create-library-packages)
 and the Flutter guide for
-[developing packages and plugins](https://flutter.dev/developing-packages).
+[developing packages and plugins](https://flutter.dev/developing-packages).![loader](https://user-images.githubusercontent.com/63300484/202897126-9cb81a7e-97a4-47ae-a6db-b2289dd30576.gif)
+
 -->
+# colorful_progress_indicators
 
 A package that provides user defined colorful progress indicators.
 
 ## Features
 
-Can provide list of colors to be used in the progress indicator.
+- Can provide list of colors to be used in the progress indicator.
+
+<img height="400" src="https://user-images.githubusercontent.com/63300484/202897126-9cb81a7e-97a4-47ae-a6db-b2289dd30576.gif">
 
 ## Getting started
 
