@@ -1,5 +1,9 @@
 import 'package:flutter/material.dart';
 
+
+/// A [CircularProgressIndicator] that changes color over time.
+/// The [colors] are used in order, and the [duration] is the time it takes to transition from one color to the next.
+/// The [initialColor] is the color that the indicator will be before the first color transition.
 class ColorfulCircularProgressIndicator extends StatelessWidget {
   const ColorfulCircularProgressIndicator({
     super.key,

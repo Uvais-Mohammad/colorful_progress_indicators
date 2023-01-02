@@ -1,5 +1,9 @@
 import 'package:flutter/material.dart';
 
+
+/// A [LinearProgressIndicator] that changes color over time.
+/// The [colors] are used in order, and the [duration] is the time it takes to transition from one color to the next.
+/// The [initialColor] is the color that the indicator will be before the first color transition.
 class ColorfulLinearProgressIndicator extends StatelessWidget {
   const ColorfulLinearProgressIndicator({
     super.key,
